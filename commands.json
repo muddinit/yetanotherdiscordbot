@@ -1,0 +1,13 @@
+{
+  "lick": ["mention"],
+  "slap": ["mention", "slapped"],
+  "feed": ["mention", "fed"],
+  "hug": ["mention", "hugged"],
+  "kiss": ["mention"],
+  "pat": ["mention", "patted"],
+  "8ball": [null, null, "Get 8balled"],
+  "urban": [null, null, "Get definition from urbandictionary.com."],
+  "help": [null, null, "Get help"],
+  "ship": ["1", null, "Ship someone with someone.(Requires 2 mentions)"],
+  "em": [null, null, "Get emoji pic"]
+}

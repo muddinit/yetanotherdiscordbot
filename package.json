@@ -1,0 +1,19 @@
+{
+  "name": "yetanotherdiscordbot",
+  "version": "0.0.1",
+  "main": "discordbot.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "canvas": "^2.6.1",
+    "discord.js": "^12.5.3",
+    "merge-images": "^2.0.0",
+	"emoji-regex": "^9.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "muddinit",
+  "license": "MIT",
+  "description": ""
+}
